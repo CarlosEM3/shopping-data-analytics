@@ -12,4 +12,4 @@ The questions focused on addressing include identifying popular colors by season
 
 [A short write-up of the workflow this project followed, your observations on the visualizations, and interpretations of analyses. Include challenges faced and possible next actions]
 
-The approach to this project included the clean up of 
+The approach to this project included the exploring of the raw shopping dataset that we were provided. This step included the use of Seaborn and Matplotlib to create visualizations of our data. From there the data was then transformed to create a clean dataset. This step included checking columns for null values and dropping or replacing them to answer our key questions.   
